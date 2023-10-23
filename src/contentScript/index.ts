@@ -3,6 +3,7 @@ function removeBlur() {
 
   if (targetElement) {
     ;(targetElement as HTMLDivElement).style.backdropFilter = 'none'
+    ;(targetElement as HTMLDivElement).style.background = 'none'
     return true
   }
 
