@@ -11,10 +11,14 @@ function removeBlur() {
 }
 
 function startInterval() {
+  let attemptCount = 0
+
   const intervalId = setInterval(() => {
     const success = removeBlur()
 
-    if (success) {
+    attemptCount++
+
+    if (success || attemptCount >= 10) {
       clearInterval(intervalId)
     }
   }, 1000)
