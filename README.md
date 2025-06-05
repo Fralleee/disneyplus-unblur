@@ -6,7 +6,7 @@
 > [!NOTE] 
 > Disney+ has removed the overlay, so this extension is no longer required
 
-Enhance your Disney+ viewing experience with **Disney+ Unblur**! Our extension is meticulously designed to remove the blur overlay that appears on video controls and subtitles, providing you with a clearer, uninterrupted viewing experience. With **Disney+ Unblur**, dive into your favorite Disney+ content without any distracting blur effects, making your magical journey smoother and more enjoyable.
+**Disney+ Unblur**! removes the blur overlay that appears on video controls and subtitles, providing you with a clearer viewing experience.
 
 [Installation](#installation) •
 [Usage](#usage) •
@@ -14,11 +14,11 @@ Enhance your Disney+ viewing experience with **Disney+ Unblur**! Our extension i
 
 ## Installation
 
-To install this extension that's cooler than the other side of the pillow, visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/disney%20-unblur/epegomjmecdogfefcmadjkbinicbldmb/) and install **Disney+ Unblur**.
+To install this extension, visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/disney%20-unblur/epegomjmecdogfefcmadjkbinicbldmb/) and install **Disney+ Unblur**.
 
 ## Usage
 
-**Disney+ Unblur** works out of the box and will automatically remove the overlay whenever you're viewing Disney+ content.
+**Disney+ Unblur** works seamlessly out of the box and automatically removes the overlay whenever you're viewing Disney+ content.
 
 ## Links
 
