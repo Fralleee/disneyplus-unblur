@@ -1,17 +1,16 @@
-<div align="center">
-
 # Disney+ Unblur
 
 ![GitHub](https://img.shields.io/github/license/fralleee/disneyplus-unblur)
 ![GitHub issues](https://img.shields.io/github/issues/fralleee/disneyplus-unblur)
+
+> [!NOTE] 
+> Disney+ has removed the overlay, so this extension is no longer required
 
 Enhance your Disney+ viewing experience with **Disney+ Unblur**! Our extension is meticulously designed to remove the blur overlay that appears on video controls and subtitles, providing you with a clearer, uninterrupted viewing experience. With **Disney+ Unblur**, dive into your favorite Disney+ content without any distracting blur effects, making your magical journey smoother and more enjoyable.
 
 [Installation](#installation) •
 [Usage](#usage) •
 [Links](#links)
-
-</div>
 
 ## Installation
 
